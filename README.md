@@ -5,7 +5,7 @@
 1. **Clona el repositorio**
 
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/NicoCieri/interfaces-final-2025.git
    cd biblioteca-online
    ```
 
